@@ -15,6 +15,7 @@ vendor/
 
 # Fichiers de configuration locaux
 .env
+venv/
 
 # données
 data/
