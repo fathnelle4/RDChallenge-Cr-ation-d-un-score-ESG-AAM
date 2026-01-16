@@ -1,0 +1,21 @@
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Dossiers temporaires
+tmp/
+temp/
+
+# Dépendances
+node_modules/
+vendor/
+
+# Fichiers de configuration locaux
+.env
+
+# données
+data/
+
